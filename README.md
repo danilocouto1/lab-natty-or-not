@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# E-Book de Contos de Fantasia Zahav
 
-## 🚀 Introdução
+## Descrição
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+O E-Book foi criado contando a história de um personagem de uma mesa de RPG, muito famoso em grupos de RPG baianos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1. ChatGPT para correção de ortografia e pontuação.
+2. DeepSeek para formatar e gerar partes das páginas do livro.
+3. Leonard.AI para gerar imagens.
+4. Word Office para juntar as informações.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Utilizando o ChatGPT, foi colocado um texto base e um prompt para correção de erros ortográficos e pontuação segundo o português do Brasil.  
+Depois de revisado, o texto corrigido foi inserido no DeepSeek para gerar partes do E-Book, sem a restrição do ChatGPT, que, depois de um tempo necessário, perde a capacidade de utilizar todo o seu escopo. Por isso, foi substituído pelo DeepSeek.  
+Após a finalização dos textos, foi utilizado o Leonard.AI para criar uma ilustração para cada capítulo, seguindo o conceito de light novel.  
+Por fim, as imagens e o texto foram editados em um documento do Word.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 📖 Resultado Final
 
-### Exemplos e Insigths
+Segue o link do E-Book finalizado: [E-Book](https://github.com/danilocouto1/lab-natty-or-not/blob/main/Conto_Zahav_Completo.pdf).
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A criação deste E-Book foi uma experiência reflexiva, pois mostra como o trabalho humano, aliado a ferramentas de IA, ganha produtividade e permite otimizar o tempo para atender demandas, encurtar prazos e lidar com áreas fora do campo de expertise, como a criação de ilustrações, tornando o processo mais acessível e simples.
